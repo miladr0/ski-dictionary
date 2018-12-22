@@ -1,0 +1,30 @@
+{
+  "name": "ski-dictionary",
+  "version": "1.0.0",
+  "description": "A collection of skier terms and definitions",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladr0/ski-dictionary.git"
+  },
+  "keywords": [
+    "ski",
+    "terms",
+    "dic",
+    "dictionary"
+  ],
+  "author": "milad ranjbar <miladr0r@gmail.com> (https://github.com/miladr0)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miladr0/ski-dictionary/issues"
+  },
+  "homepage": "https://github.com/miladr0/ski-dictionary#readme",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "cors": "2.8.5",
+    "express": "4.16.4"
+  }
+}
